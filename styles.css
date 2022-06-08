@@ -37,5 +37,6 @@ button:hover {
 }
 .cell {
   border: 6px solid;
+	background: #fff;
   border-color: #000 #000 #000 #000;
 }
